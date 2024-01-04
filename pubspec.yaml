@@ -24,4 +24,3 @@ flutter:
   shaders:
     - shaders/simple.frag
     - shaders/textured.frag
-    - shaders/pbr.frag
